@@ -1,12 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import images from './images';
+import Jumbotron from './components/Jumbotron';
+import MainGameContainer from './components/MainGameContainer'
 
 function App() {
   return (
     <div className="App">
-      
+      <Jumbotron />
+      <MainGameContainer />
     </div>
   );
 }
