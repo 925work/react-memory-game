@@ -18,7 +18,7 @@ class MainGameContainer extends Component {
             });
             return this.setState({
                 image: imageOrder.sort(() => Math.random() - 0.5),
-                message: "You guessed INCORRECTLY! Click an image to try again.",
+                message: "You guessed WRONG! -- Click an image to try again.",
                 score: 0
             })
         }
@@ -50,6 +50,7 @@ class MainGameContainer extends Component {
 					</div>
 					<div className="gameScores text-center">
 						<p>Score: {this.state.score} | Top Score: {this.state.topScore}</p>
+                        <bR></bR>
 					</div>
 				<div className="container">
 					

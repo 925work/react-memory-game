@@ -6,6 +6,34 @@ img{
     margin-left: 30px;
 }
 
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px !important;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.jumbotron p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px !important;
+}
+
+img{
+    border: rgb(100, 100, 238) solid 2px;
+}
+
 img:hover{
-    border: blue solid 2px;
+    border: rgb(74, 74, 235) solid 3px;
+}
+
+.App {
+    background-color: rgb(173, 223, 254);
+}
+
+.jumbotron {
+    background-color: rgb(107, 145, 216);
+    border-bottom: black solid 2px;
 }
