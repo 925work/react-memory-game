@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Dino1",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/NBSazJF.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dino2",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/1I9T89o.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dino3",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/sK47B87.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dino4",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/NJTw4ps.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dino5",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/KbfAOHt.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dino6",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/TVtFUQm.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dino7",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/wZH0aNj.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Dino8",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/J2aDBaE.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dino9",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/bX9z4A2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dino10",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/kvtzyBX.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Dino11",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/fW3w0HS.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Dino12",
+      "clicked": false,
+      "image":
+        "https://i.imgur.com/V3Yfn8u.jpg"
+    }
+  ]
